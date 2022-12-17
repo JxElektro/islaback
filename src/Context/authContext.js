@@ -30,3 +30,5 @@ export function AuthProvider({ children }) {
     </authContext.Provider>
   );
 }
+
+// Path: islaback\src\Context\authContext.js
