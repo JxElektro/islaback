@@ -30,3 +30,5 @@ export function AuthProvider({ children }) {
     </authContext.Provider>
   );
 }
+
+// Path: src\Routes\Home.js
